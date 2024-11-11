@@ -1,0 +1,1215 @@
+{
+  "addresses": [
+    {
+      "id": 1,
+      "post_code": "5634FJ",
+      "number": "5",
+      "suffix": "suffix",
+      "address": "Gildelaan 33",
+      "location": "Amsterdam",
+      "phone": "+31 6 12345678",
+      "company_name": "Bestelplus",
+      "user_id": 1,
+      "nick_name": "Home"
+    },
+    {
+      "nick_name": "Work",
+      "post_code": "5634FJ",
+      "number": "2",
+      "suffix": "a",
+      "address": "Gildelaan 33",
+      "location": "Amsterdam",
+      "phone": "+31 6 12345678",
+      "company_name": "Bestelplus",
+      "id": 2
+    }
+  ],
+  "address": {
+    "pagination": {
+      "total": 1,
+      "last_page": 1,
+      "current_page": 1
+    },
+    "addresses": [
+      {
+        "id": 1,
+        "post_code": "5634FJ",
+        "number": "5",
+        "suffix": "suffix",
+        "address": "Gildelaan 33, Noord-Brabant, Netherlands",
+        "location": "Amsterdam",
+        "phone": "+31 6 12345678",
+        "company_name": "Bestelplus",
+        "user_id": 1,
+        "nick_name": "Home"
+      }
+    ]
+  },
+  "products-extras": [
+    {
+      "id": 1,
+      "name": "description",
+      "max_selection": "max_selection",
+      "extras": [
+        {
+          "id": 1,
+          "name": "extra",
+          "price": "price"
+        }
+      ]
+    }
+  ],
+  "find-address": {
+    "id": 1,
+    "province": "Netherlands",
+    "municipality": "municipality",
+    "city": "Amsterdam",
+    "street": "Gildelaan 33",
+    "lat": 10,
+    "lng": 20,
+    "nl_sixpp": "5634FJ"
+  },
+  "companies": [
+    {
+      "id": 1,
+      "company_id": 1,
+      "company_name": "Bestelplus",
+      "contact_email": "bestelplus@yahoo.com",
+      "domain": "www.bestelplus.com",
+      "company_tel": "+31 273 314 974",
+      "address": "Gildelaan 33, 5612 AG Eindhoven, Noord-Brabant, Netherlands",
+      "lat": 52.3676,
+      "lng": 4.9041,
+      "payment_cash": "payment_cash",
+      "payment_online": "payment_online",
+      "pickup_closed": false,
+      "delivery_closed": false,
+      "pickup_start": "10:00",
+      "pickup_end": "22:00",
+      "delivery_start": "10:00",
+      "delivery_end": "22:00",
+      "about_us": "Krijg een alles-in-één platform voor het bestellen en verkopen van producten op de verkooppunten. Geniet van efficiënt beheer, gebruiksvriendelijke ...",
+      "web_color": [
+        "web_color"
+      ],
+      "logo": "https://{bucket}.s3.eu-central-1.amazonaws.com/{logo}",
+      "categories": [
+        {
+          "name": "Beef Burgers",
+          "on_sale": "on_internet_sale",
+          "id": 1,
+          "description": "Alle burgers zijn huisgemaakt! Menu's: inclusief friet & een frisdrank naar keuze (*m.u.v Red Bull)",
+          "start_hour": "10:00",
+          "end_hour": "22:00",
+          "image": ""
+        },
+        {
+          "name": "Dranken",
+          "on_sale": "on_internet_sale",
+          "id": 2,
+          "description": "Een warme drank gemaakt van gebrande en gemalen koffiebonen.",
+          "start_hour": "10:00",
+          "end_hour": "22:00",
+          "image": ""
+        },
+        {
+          "name": "Pizza",
+          "on_sale": "on_internet_sale",
+          "id": 3,
+          "description": "Pizza is een gerecht dat bestaat uit een platte, ronde bodem van deeg, meestal bedekt met tomatensaus.",
+          "start_hour": "10:00",
+          "end_hour": "22:00",
+          "image": ""
+        }
+      ],
+      "sliders": [
+        {
+          "image_url": "https://{bucket}.s3.eu-central-1.amazonaws.com/{img}",
+          "order": "ordernumber",
+          "speed": "speed",
+          "header_text": "NWelkom bij Burger Plus",
+          "description": "nBestel gemakkelijk en snel online!"
+        }
+      ],
+      "time_slots": {
+        "incr": 1,
+        "delivery_incr": 1,
+        "pickup_incr": 1
+      },
+      "delivery_pickup_hours": [
+        {
+          "day_code": 6,
+          "day_name": "monday",
+          "delivery_hour_start": "1731149286108",
+          "delivery_hour_end": "1731176549893",
+          "deliveryclosed": "1731199288108",
+          "pickup_hour_start": "1731149286108",
+          "pickup_hour_end": "1731176549893",
+          "pickupclosed": "1731199288108"
+        }
+      ],
+      "delivery_areas": [
+        {
+          "post_code": "8031 AA",
+          "min_order_price": "$50",
+          "delivery_price": "$5",
+          "delivery_free_price": "$100"
+        }
+      ],
+      "campaign_sliders": [
+        {
+          "header": "header_txt",
+          "description": "description_txt"
+        }
+      ],
+      "terms_of_use": {
+        "cookie_policy": "",
+        "privacy_policy": "",
+        "terms_and_condition": ""
+      },
+      "facebook": "",
+      "instagram": "",
+      "pickup_hours_text": "14:00 - 23:00",
+      "delivery_hours_text": "16:00 - 22:50"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Beef Burgers",
+      "on_sale": "on_internet_sale",
+      "id": 1,
+      "description": "Alle burgers zijn huisgemaakt! Menu's: inclusief friet & een frisdrank naar keuze (*m.u.v Red Bull)",
+      "start_hour": 10,
+      "end_hour": 23,
+      "image": "",
+      "products": [
+        {
+          "id": 11,
+          "name": "Clasic Burger",
+          "price": "$10.00",
+          "description": "sla, komkommer, tommat, augurken, rode ui, huisgemaakte burgersaus met mayonaise",
+          "on_sale": "on_internet_sale",
+          "is_new": true,
+          "new_image": "",
+          "is_discount": true,
+          "non_discount_price": "$12.00",
+          "is_campaign": false,
+          "discount_image": "",
+          "discount_amount": "2",
+          "discount_start_hour": 10,
+          "discount_end_hour": 23,
+          "image": "/images/classic-burger.png",
+          "icons": [
+            {
+              "text": "txt",
+              "url": ""
+            }
+          ],
+          "extras": [
+            {
+              "id": 1,
+              "name": "Extra Saus",
+              "max_selection": 3,
+              "extras": [
+                {
+                  "id": 1,
+                  "name": "Mayonaise",
+                  "price": "$1"
+                },
+                {
+                  "id": 2,
+                  "name": "ketchup",
+                  "price": "$1"
+                },
+                {
+                  "id": 3,
+                  "name": "BBQ",
+                  "price": "$1"
+                },
+                {
+                  "id": 4,
+                  "name": "Ranch",
+                  "price": "$1"
+                },
+                {
+                  "id": 5,
+                  "name": "Spicy",
+                  "price": "$1"
+                },
+                {
+                  "id": 6,
+                  "name": "Yellow Mustard",
+                  "price": "$1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "name": "Cheese Burger",
+          "price": "$15.00",
+          "description": "cheddarkaas, sla, komkommer, tomaat, augurken, rode ui, huisgemaakte ketchup",
+          "on_sale": "on_internet_sale",
+          "is_new": false,
+          "new_image": "",
+          "is_discount": false,
+          "non_discount_price": "$15.00",
+          "is_campaign": false,
+          "discount_image": "",
+          "discount_amount": 0,
+          "discount_start_hour": 0,
+          "discount_end_hour": 0,
+          "image": "/images/cheese-burger.png",
+          "icons": [
+            {
+              "text": "txt",
+              "url": ""
+            }
+          ],
+          "extras": [
+            {
+              "id": 1,
+              "name": "Extra Saus",
+              "max_selection": 3,
+              "extras": [
+                {
+                  "id": 1,
+                  "name": "Mayonaise",
+                  "price": "$1"
+                },
+                {
+                  "id": 2,
+                  "name": "ketchup",
+                  "price": "$1"
+                },
+                {
+                  "id": 3,
+                  "name": "BBQ",
+                  "price": "$1"
+                },
+                {
+                  "id": 4,
+                  "name": "Ranch",
+                  "price": "$1"
+                },
+                {
+                  "id": 5,
+                  "name": "Spicy",
+                  "price": "$1"
+                },
+                {
+                  "id": 6,
+                  "name": "Yellow Mustard",
+                  "price": "$1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "name": "Chicken Burger",
+          "price": "$18.00",
+          "description": "kipgehakt met cheddarkaas en bacon, sla, komkommer, tomaat augurken en rode ui",
+          "on_sale": "on_internet_sale",
+          "is_new": false,
+          "new_image": "",
+          "is_discount": false,
+          "non_discount_price": "$18.00",
+          "is_campaign": false,
+          "discount_image": "",
+          "discount_amount": 0,
+          "discount_start_hour": 0,
+          "discount_end_hour": 0,
+          "image": "/images/chicken-burger.png",
+          "icons": [
+            {
+              "text": "txt",
+              "url": ""
+            }
+          ],
+          "extras": [
+            {
+              "id": 1,
+              "name": "Extra Saus",
+              "max_selection": 3,
+              "extras": [
+                {
+                  "id": 1,
+                  "name": "Mayonaise",
+                  "price": "$1"
+                },
+                {
+                  "id": 2,
+                  "name": "ketchup",
+                  "price": "$1"
+                },
+                {
+                  "id": 3,
+                  "name": "BBQ",
+                  "price": "$1"
+                },
+                {
+                  "id": 4,
+                  "name": "Ranch",
+                  "price": "$1"
+                },
+                {
+                  "id": 5,
+                  "name": "Spicy",
+                  "price": "$1"
+                },
+                {
+                  "id": 6,
+                  "name": "Yellow Mustard",
+                  "price": "$1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Dranken",
+      "on_sale": "on_internet_sale",
+      "image": "https://{category_img_bucket}.s3.eu-central-1.amazonaws.com/{category_img}",
+      "description": "Een warme drank gemaakt van gebrande en gemalen koffiebonen. Het wordt vaak gedronken om wakker te worden of energie te krijgen.",
+      "start_hour": 10,
+      "end_hour": 23,
+      "products": [
+        {
+          "id": 14,
+          "name": "Coca Cola",
+          "price": "$6.25",
+          "description": "sla, komkommer, tommat, augurken, rode ui, huisgemaakte burgersaus met mayonaise",
+          "on_sale": "on_internet_sale",
+          "is_new": true,
+          "new_image": "",
+          "is_discount": true,
+          "non_discount_price": "$7.25",
+          "is_campaign": false,
+          "discount_image": "",
+          "discount_amount": "1",
+          "discount_start_hour": 10,
+          "discount_end_hour": 23,
+          "image": "/images/coca-cola.png",
+          "icons": [
+            {
+              "text": "txt",
+              "url": ""
+            }
+          ],
+          "extras": []
+        },
+        {
+          "id": 15,
+          "name": "Red Bull",
+          "price": "$7.5",
+          "description": "sla, komkommer, tommat, augurken, rode ui, huisgemaakte burgersaus met mayonaise",
+          "on_sale": "on_internet_sale",
+          "is_new": true,
+          "new_image": "",
+          "is_discount": true,
+          "non_discount_price": "$8.0",
+          "is_campaign": false,
+          "discount_image": "",
+          "discount_amount": "0",
+          "discount_start_hour": 10,
+          "discount_end_hour": 23,
+          "image": "/images/Red-Bull-Energy-Drink.png",
+          "icons": [
+            {
+              "text": "txt",
+              "url": ""
+            }
+          ],
+          "extras": []
+        },
+        {
+          "id": 16,
+          "name": "Water",
+          "price": "$6.25",
+          "description": "sla, komkommer, tommat, augurken, rode ui, huisgemaakte burgersaus met mayonaise",
+          "on_sale": "on_internet_sale",
+          "is_new": true,
+          "new_image": "",
+          "is_discount": true,
+          "non_discount_price": "$7.25",
+          "is_campaign": false,
+          "discount_image": "",
+          "discount_amount": "1",
+          "discount_start_hour": 10,
+          "discount_end_hour": 23,
+          "image": "/images/water.png",
+          "icons": [
+            {
+              "text": "txt",
+              "url": ""
+            }
+          ],
+          "extras": []
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Pizza",
+      "on_sale": "on_internet_sale",
+      "description": "Pizza is een gerecht dat bestaat uit een platte, ronde bodem van deeg, meestal bedekt met tomatensaus, kaas en diverse andere ingrediënten zoals vlees.",
+      "start_hour": 10,
+      "end_hour": 23,
+      "image": "",
+      "products": [
+        {
+          "id": 17,
+          "name": "Pepperoni Pizza",
+          "price": "$10.00",
+          "description": "sla, komkommer, tommat, augurken, rode ui, huisgemaakte burgersaus met mayonaise",
+          "on_sale": "on_internet_sale",
+          "is_new": true,
+          "new_image": "",
+          "is_discount": true,
+          "non_discount_price": "$12.00",
+          "is_campaign": false,
+          "discount_image": "",
+          "discount_amount": "2",
+          "discount_start_hour": 10,
+          "discount_end_hour": 23,
+          "image": "/images/Pepperoni-Pizza.png",
+          "icons": [
+            {
+              "text": "txt",
+              "url": ""
+            }
+          ],
+          "extras": [
+            {
+              "id": 1,
+              "name": "Extra Saus",
+              "max_selection": 3,
+              "extras": [
+                {
+                  "id": 1,
+                  "name": "Mayonaise",
+                  "price": "$1"
+                },
+                {
+                  "id": 2,
+                  "name": "ketchup",
+                  "price": "$1"
+                },
+                {
+                  "id": 3,
+                  "name": "BBQ",
+                  "price": "$1"
+                },
+                {
+                  "id": 4,
+                  "name": "Ranch",
+                  "price": "$1"
+                },
+                {
+                  "id": 5,
+                  "name": "Spicy",
+                  "price": "$1"
+                },
+                {
+                  "id": 6,
+                  "name": "Yellow Mustard",
+                  "price": "$1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "name": "Margherita Pizza",
+          "price": "$15.00",
+          "description": "cheddarkaas, sla, komkommer, tomaat, augurken, rode ui, huisgemaakte ketchup",
+          "on_sale": "on_internet_sale",
+          "is_new": false,
+          "new_image": "",
+          "is_discount": false,
+          "non_discount_price": "$15.00",
+          "is_campaign": false,
+          "discount_image": "",
+          "discount_amount": 0,
+          "discount_start_hour": 0,
+          "discount_end_hour": 0,
+          "image": "/images/Pizza-Margherita.png",
+          "icons": [
+            {
+              "text": "txt",
+              "url": ""
+            }
+          ],
+          "extras": [
+            {
+              "id": 1,
+              "name": "Extra Saus",
+              "max_selection": 3,
+              "extras": [
+                {
+                  "id": 1,
+                  "name": "Mayonaise",
+                  "price": "$1"
+                },
+                {
+                  "id": 2,
+                  "name": "ketchup",
+                  "price": "$1"
+                },
+                {
+                  "id": 3,
+                  "name": "BBQ",
+                  "price": "$1"
+                },
+                {
+                  "id": 4,
+                  "name": "Ranch",
+                  "price": "$1"
+                },
+                {
+                  "id": 5,
+                  "name": "Spicy",
+                  "price": "$1"
+                },
+                {
+                  "id": 6,
+                  "name": "Yellow Mustard",
+                  "price": "$1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "name": "Rost Beef Pizza",
+          "price": "$18.00",
+          "description": "kipgehakt met cheddarkaas en bacon, sla, komkommer, tomaat augurken en rode ui",
+          "on_sale": "on_internet_sale",
+          "is_new": false,
+          "new_image": "",
+          "is_discount": false,
+          "non_discount_price": "$18.00",
+          "is_campaign": false,
+          "discount_image": "",
+          "discount_amount": 0,
+          "discount_start_hour": 0,
+          "discount_end_hour": 0,
+          "image": "/images/rost-beef-pizza.png",
+          "icons": [
+            {
+              "text": "txt",
+              "url": ""
+            }
+          ],
+          "extras": [
+            {
+              "id": 1,
+              "name": "Extra Saus",
+              "max_selection": 3,
+              "extras": [
+                {
+                  "id": 1,
+                  "name": "Mayonaise",
+                  "price": "$1"
+                },
+                {
+                  "id": 2,
+                  "name": "ketchup",
+                  "price": "$1"
+                },
+                {
+                  "id": 3,
+                  "name": "BBQ",
+                  "price": "$1"
+                },
+                {
+                  "id": 4,
+                  "name": "Ranch",
+                  "price": "$1"
+                },
+                {
+                  "id": 5,
+                  "name": "Spicy",
+                  "price": "$1"
+                },
+                {
+                  "id": 6,
+                  "name": "Yellow Mustard",
+                  "price": "$1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "name": "Vegetarian Pizza",
+          "price": "$18.00",
+          "description": "kipgehakt met cheddarkaas en bacon, sla, komkommer, tomaat augurken en rode ui",
+          "on_sale": "on_internet_sale",
+          "is_new": false,
+          "new_image": "",
+          "is_discount": false,
+          "non_discount_price": "$18.00",
+          "is_campaign": false,
+          "discount_image": "",
+          "discount_amount": 0,
+          "discount_start_hour": 0,
+          "discount_end_hour": 0,
+          "image": "/images/vegetarian-pizza.png",
+          "icons": [
+            {
+              "text": "txt",
+              "url": ""
+            }
+          ],
+          "extras": [
+            {
+              "id": 1,
+              "name": "Extra Saus",
+              "max_selection": 3,
+              "extras": [
+                {
+                  "id": 1,
+                  "name": "Mayonaise",
+                  "price": "$1"
+                },
+                {
+                  "id": 2,
+                  "name": "ketchup",
+                  "price": "$1"
+                },
+                {
+                  "id": 3,
+                  "name": "BBQ",
+                  "price": "$1"
+                },
+                {
+                  "id": 4,
+                  "name": "Ranch",
+                  "price": "$1"
+                },
+                {
+                  "id": 5,
+                  "name": "Spicy",
+                  "price": "$1"
+                },
+                {
+                  "id": 6,
+                  "name": "Yellow Mustard",
+                  "price": "$1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "orders": {
+    "pagination": {
+      "total": 1,
+      "last_page": 1,
+      "current_page": 1
+    },
+    "orders": [
+      {
+        "id": 3,
+        "bestel_id": 1,
+        "company_id": 1,
+        "user_id": 1,
+        "products": [],
+        "delivery_type": "pickup",
+        "payment_type": "online",
+        "address": {
+          "post_code": "123",
+          "number": "123",
+          "suffix": "suffix",
+          "address": "address",
+          "location": "location",
+          "phone": "+31 6 12345678",
+          "company_name": "Bestelplus"
+        },
+        "tip": 0,
+        "delivery_price": "$5",
+        "sub_total": "",
+        "total": "$20.25",
+        "delivery_time": "20",
+        "currency": "$",
+        "user_detail": {
+          "name": "Test User",
+          "email": "test@gmail.com",
+          "phone": "+31 6 12345678",
+          "company_name": "Bestelplus"
+        },
+        "status": "canceled",
+        "domain": "",
+        "payment_status": "pending",
+        "can_register": "",
+        "is_favorite": true,
+        "created_at": "2021-09-07T12:59:32.864Z"
+      },
+      {
+        "id": 4,
+        "bestel_id": 1,
+        "company_id": 1,
+        "user_id": 1,
+        "products": [],
+        "delivery_type": "delivery",
+        "payment_type": "cash",
+        "address": {
+          "post_code": "5634FJ",
+          "number": "5",
+          "suffix": "suffix",
+          "address": "Gildelaan 33, Noord-Brabant, Netherlands",
+          "location": "location",
+          "phone": "+31 6 12345678",
+          "company_name": "Bestelplus"
+        },
+        "tip": 0,
+        "delivery_price": "$5",
+        "sub_total": "",
+        "total": "$185",
+        "delivery_time": "20",
+        "currency": "$",
+        "user_detail": {
+          "name": "Test User",
+          "email": "test@gmail.com",
+          "phone": "+31 6 12345678",
+          "company_name": "Bestelplus"
+        },
+        "status": "delivered",
+        "domain": "",
+        "payment_status": "pending",
+        "can_register": "",
+        "is_favorite": true,
+        "created_at": "2021-07-07T12:59:32.864Z"
+      }
+    ]
+  },
+  "order-active": {
+    "pagination": {
+      "total": 1,
+      "last_page": 1,
+      "current_page": 1
+    },
+    "orders": [
+      {
+        "id": 1,
+        "bestel_id": 1,
+        "company_id": 1,
+        "user_id": 1,
+        "products": [],
+        "delivery_type": "pickup",
+        "payment_type": "online",
+        "address": {
+          "post_code": "123",
+          "number": "123",
+          "suffix": "suffix",
+          "address": "address",
+          "location": "location",
+          "phone": "+31 6 12345678",
+          "company_name": "Bestelplus"
+        },
+        "tip": 0,
+        "delivery_price": "$5",
+        "sub_total": "",
+        "total": "$80",
+        "delivery_time": "20",
+        "currency": "$",
+        "user_detail": {
+          "name": "Test User",
+          "email": "test@gmail.com",
+          "phone": "+31 6 12345678",
+          "company_name": "Bestelplus"
+        },
+        "status": "on_the_way",
+        "domain": "",
+        "payment_status": "pending",
+        "can_register": "",
+        "is_favorite": true,
+        "created_at": "2020-07-11T13:59:32.864Z"
+      }
+    ]
+  },
+  "order-favorite": {
+    "pagination": {
+      "total": 1,
+      "last_page": 1,
+      "current_page": 1
+    },
+    "orders": [
+      {
+        "id": 2,
+        "bestel_id": 1,
+        "company_id": 1,
+        "user_id": 1,
+        "products": [],
+        "delivery_type": "pickup",
+        "payment_type": "online",
+        "address": {
+          "post_code": "123",
+          "number": "123",
+          "suffix": "suffix",
+          "address": "address",
+          "location": "location",
+          "phone": "+31 6 12345678",
+          "company_name": "Bestelplus"
+        },
+        "tip": 0,
+        "delivery_price": "$5",
+        "sub_total": "",
+        "total": "$65.25",
+        "delivery_time": "20",
+        "currency": "$",
+        "user_detail": {
+          "name": "Test User",
+          "email": "test@gmail.com",
+          "phone": "+31 6 12345678",
+          "company_name": "Bestelplus"
+        },
+        "status": "preparing",
+        "domain": "",
+        "payment_status": "pending",
+        "can_register": "",
+        "is_favorite": true,
+        "created_at": "2022-11-09T11:59:32.864Z"
+      }
+    ]
+  },
+  "order": [
+    {
+      "id": 1,
+      "bestel_id": 1,
+      "company_id": 1,
+      "user_id": 1,
+      "products": [],
+      "delivery_type": "delivery",
+      "payment_type": "online",
+      "address": {
+        "post_code": "123",
+        "number": "123",
+        "suffix": "suffix",
+        "address": "address",
+        "location": "location",
+        "phone": "+31 6 12345678",
+        "company_name": "Bestelplus"
+      },
+      "tip": "0",
+      "delivery_price": "$5",
+      "sub_total": "",
+      "total": "$190",
+      "delivery_time": "2022-11-09T11:59:32.864Z",
+      "currency": "$",
+      "user_detail": {
+        "name": "Test User",
+        "email": "test@gmail.com",
+        "phone": "+31 6 12345678",
+        "company_name": "Bestelplus"
+      },
+      "status": "on_the_way",
+      "domain": "",
+      "discount": "0",
+      "created_at": "2022-11-09T10:59:32.864Z",
+      "payment_status": 2,
+      "can_register": true
+    },
+    {
+      "id": 2,
+      "bestel_id": 1,
+      "company_id": 1,
+      "user_id": 1,
+      "products": [
+        {
+          "id": 11,
+          "name": "Clasic Burger",
+          "price": "$10.00",
+          "description": "cheddarkaas, sla, komkommer, tomaat, augurken, rode ui, huisgemaakte ketchup",
+          "image": "/images/classic-burger.png",
+          "quantity": "2",
+          "notes": "",
+          "extras": []
+        },
+        {
+          "id": 12,
+          "name": "Cheese Burger",
+          "price": "$15.00",
+          "description": "cheddarkaas, sla, komkommer, tomaat, augurken, rode ui, huisgemaakte ketchup",
+          "image": "/images/cheese-burger.png",
+          "quantity": "3",
+          "notes": "",
+          "extras": []
+        }
+      ],
+      "delivery_type": "delivery",
+      "payment_type": "online",
+      "address": {
+        "post_code": "123",
+        "number": "123",
+        "suffix": "suffix",
+        "address": "address",
+        "location": "location",
+        "phone": "+31 6 12345678",
+        "company_name": "Bestelplus"
+      },
+      "tip": "0",
+      "delivery_price": "$5",
+      "sub_total": "",
+      "total": "$65.25",
+      "delivery_time": "2022-11-09T11:59:32.864Z",
+      "currency": "$",
+      "user_detail": {
+        "name": "Test User",
+        "email": "test@gmail.com",
+        "phone": "+31 6 12345678",
+        "company_name": "Bestelplus"
+      },
+      "status": "preparing",
+      "domain": "",
+      "discount": "0",
+      "created_at": "2022-11-09T10:59:32.864Z",
+      "payment_status": 2,
+      "can_register": true
+    },
+    {
+      "company_id": "1",
+      "user_id": 1,
+      "products": [
+        {
+          "id": 11,
+          "name": "Clasic Burger",
+          "price": "$10.00",
+          "description": "sla, komkommer, tommat, augurken, rode ui, huisgemaakte burgersaus met mayonaise",
+          "image": "/images/classic-burger.png",
+          "quantity": 2,
+          "notes": "",
+          "extras": []
+        },
+        {
+          "id": 13,
+          "name": "Chicken Burger",
+          "price": "$18.00",
+          "description": "kipgehakt met cheddarkaas en bacon, sla, komkommer, tomaat augurken en rode ui",
+          "image": "/images/chicken-burger.png",
+          "quantity": 1,
+          "notes": "",
+          "extras": []
+        },
+        {
+          "id": 14,
+          "name": "Coca Cola",
+          "price": "$6.25",
+          "description": "sla, komkommer, tommat, augurken, rode ui, huisgemaakte burgersaus met mayonaise",
+          "image": "/images/coca-cola.png",
+          "quantity": 2,
+          "notes": "",
+          "extras": []
+        },
+        {
+          "id": 15,
+          "name": "Red Bull",
+          "price": "$7.5",
+          "description": "sla, komkommer, tommat, augurken, rode ui, huisgemaakte burgersaus met mayonaise",
+          "image": "/images/Red-Bull-Energy-Drink.png",
+          "quantity": 1,
+          "notes": "",
+          "extras": []
+        },
+        {
+          "id": 17,
+          "name": "Pepperoni Pizza",
+          "price": "$10.00",
+          "description": "sla, komkommer, tommat, augurken, rode ui, huisgemaakte burgersaus met mayonaise",
+          "image": "/images/Pepperoni-Pizza.png",
+          "quantity": 1,
+          "notes": "",
+          "extras": []
+        },
+        {
+          "id": 19,
+          "name": "Rost Beef Pizza",
+          "price": "$18.00",
+          "description": "kipgehakt met cheddarkaas en bacon, sla, komkommer, tomaat augurken en rode ui",
+          "image": "/images/rost-beef-pizza.png",
+          "quantity": 2,
+          "notes": "",
+          "extras": []
+        }
+      ],
+      "delivery_type": "pickup",
+      "payment_type": "online",
+      "address": {
+        "post_code": "",
+        "number": "",
+        "suffix": "",
+        "address": "",
+        "location": "",
+        "phone": "",
+        "company_name": ""
+      },
+      "tip": 0,
+      "delivery_price": 0,
+      "sub_total": 104,
+      "total": 104.25,
+      "delivery_time": "2024-11-09T17:30:14+01:00",
+      "currency": "$",
+      "user_detail": {
+        "name": "Test User",
+        "email": "test@gmail.com",
+        "phone": "+31 6 12345678",
+        "company_name": ""
+      },
+      "domain": "http://localhost:3000",
+      "notes": "",
+      "buyer_price": 104.25,
+      "discount": 0,
+      "voucher_code": null,
+      "status": "received",
+      "created_at": "2024-11-09T20:13:52.641Z",
+      "id": 3
+    },
+    {
+      "company_id": "1",
+      "user_id": 1,
+      "products": [
+        {
+          "id": 11,
+          "name": "Clasic Burger",
+          "price": "$10.00",
+          "description": "sla, komkommer, tommat, augurken, rode ui, huisgemaakte burgersaus met mayonaise",
+          "image": "/images/classic-burger.png",
+          "quantity": 3,
+          "notes": "",
+          "extras": []
+        },
+        {
+          "id": 15,
+          "name": "Red Bull",
+          "price": "$7.5",
+          "description": "sla, komkommer, tommat, augurken, rode ui, huisgemaakte burgersaus met mayonaise",
+          "image": "/images/Red-Bull-Energy-Drink.png",
+          "quantity": 1,
+          "notes": "",
+          "extras": []
+        }
+      ],
+      "delivery_type": "pickup",
+      "payment_type": "cash",
+      "address": {
+        "post_code": "",
+        "number": "",
+        "suffix": "",
+        "address": "",
+        "location": "",
+        "phone": "",
+        "company_name": ""
+      },
+      "tip": 0,
+      "delivery_price": 0,
+      "sub_total": 37.5,
+      "total": 37.5,
+      "delivery_time": "2024-11-09T17:30:14+01:00",
+      "currency": "$",
+      "user_detail": {
+        "name": "Test User",
+        "email": "test@gmail.com",
+        "phone": "+31 6 12345678",
+        "company_name": ""
+      },
+      "domain": "http://localhost:3000",
+      "notes": "",
+      "buyer_price": 37.5,
+      "discount": 0,
+      "voucher_code": null,
+      "status": "received",
+      "created_at": "2024-11-09T21:19:28.702Z",
+      "id": 4
+    },
+    {
+      "company_id": "1",
+      "user_id": 1,
+      "products": [
+        {
+          "id": 12,
+          "name": "Cheese Burger",
+          "price": "$15.00",
+          "description": "cheddarkaas, sla, komkommer, tomaat, augurken, rode ui, huisgemaakte ketchup",
+          "image": "/images/cheese-burger.png",
+          "quantity": 1,
+          "notes": "",
+          "extras": []
+        }
+      ],
+      "delivery_type": "delivery",
+      "payment_type": "online",
+      "address": {
+        "post_code": "5634FJ",
+        "number": "2",
+        "suffix": "a",
+        "address": "Gildelaan 33",
+        "location": "Amsterdam",
+        "phone": "+31 6 12345678",
+        "company_name": "Bestelplus"
+      },
+      "tip": 0,
+      "delivery_price": 0,
+      "sub_total": 15,
+      "total": 15.25,
+      "delivery_time": null,
+      "currency": "$",
+      "user_detail": {
+        "name": "Test User",
+        "email": "test@gmail.com",
+        "phone": "+31 6 12345678",
+        "company_name": "Bestelplus"
+      },
+      "domain": "http://localhost:3000",
+      "notes": "",
+      "buyer_price": 15.25,
+      "discount": 0,
+      "voucher_code": null,
+      "status": "received",
+      "created_at": "2024-11-09T21:20:43.426Z",
+      "id": 5
+    }
+  ],
+  "login-access-token": {
+    "access_token": "ssg5herh1erh1er61herh1er2b1r21er1gherh1e2rh1r2eh1er2h1erh4erh561erh65erh4er6h",
+    "token_type": "bearer"
+  },
+  "profile": {
+    "id": 1,
+    "username": "Test User",
+    "email": "test@gmail.com",
+    "last_name": "Test User",
+    "phone_number": "+31 6 12345678",
+    "country": "Nederlan",
+    "state": "None",
+    "city": "Amsterdam",
+    "latitude": 52.3676,
+    "longitude": 4.9041,
+    "is_phone_number_confirmed": true
+  },
+  "profile-loyalty-stamps": {
+    "target_order_count": 10,
+    "current_order_count": 1,
+    "min_order": "50",
+    "discount": "15",
+    "expires_at": "2025-02-09T11:59:32.864Z",
+    "coupon_codes": [
+      {
+        "voucher_code": "UIT FEBRUARI",
+        "discount": "$15",
+        "expires_at": "2025-02-09T11:59:32.864Z"
+      }
+    ]
+  }
+}
