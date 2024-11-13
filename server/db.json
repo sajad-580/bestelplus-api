@@ -89,9 +89,7 @@
       "delivery_start": "10:00",
       "delivery_end": "22:00",
       "about_us": "Krijg een alles-in-één platform voor het bestellen en verkopen van producten op de verkooppunten. Geniet van efficiënt beheer, gebruiksvriendelijke ...",
-      "web_color": [
-        "web_color"
-      ],
+      "web_color": ["web_color"],
       "logo": "https://{bucket}.s3.eu-central-1.amazonaws.com/{logo}",
       "categories": [
         {
@@ -589,7 +587,7 @@
         },
         {
           "id": 19,
-          "name": "Rost Beef Pizza",
+          "name": "Roast Beef Pizza",
           "price": "$18.00",
           "description": "kipgehakt met cheddarkaas en bacon, sla, komkommer, tomaat augurken en rode ui",
           "on_sale": "on_internet_sale",
@@ -1035,7 +1033,7 @@
         },
         {
           "id": 19,
-          "name": "Rost Beef Pizza",
+          "name": "Roast Beef Pizza",
           "price": "$18.00",
           "description": "kipgehakt met cheddarkaas en bacon, sla, komkommer, tomaat augurken en rode ui",
           "image": "/images/rost-beef-pizza.png",
