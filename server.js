@@ -11,6 +11,6 @@ server.use(router);
 const PORT = 88;
 const HOST = "0.0.0.0";
 
-server.listen(PORT, HOST, () => {
+server.listen(() => {
   console.log(`JSON Server is running on http://${HOST}:${PORT}`);
 });
