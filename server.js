@@ -8,7 +8,7 @@ server.use(cors()); // Enable CORS for all routes
 server.use(middlewares);
 server.use(router);
 
-const PORT = 80;
+const PORT = 88;
 const HOST = "0.0.0.0";
 
 server.listen(PORT, HOST, () => {
